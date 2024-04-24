@@ -3,8 +3,11 @@ package Git_demo;
 public class GitTC1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Hi THis is GITHUB");
 
+		System.out.println("This is working");
+		
+		
 	}
 
 }
